@@ -1,4 +1,4 @@
-# Project Title: GrantChain: Milestone-Based Dev Grant Vesting
+# Project Title: GrantChain: Milestone-Based Dev Grant Vesting 
 
 ## Project Description
 
