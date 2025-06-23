@@ -24,4 +24,4 @@ To create a transparent, milestone-driven funding mechanism for developers and c
 
 ## Contract Details
 0x19d180f63f444434beDCb4CCc054da04936e165f
-![alt text](image.png) 
+![alt text](image.png)  
