@@ -49,4 +49,4 @@ contract GrantChain {
     function remainingBalance() external view returns (uint256) {
         return address(this).balance;
     }
-}
+} 
