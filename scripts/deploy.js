@@ -8,7 +8,7 @@ async function main() {
     value: hre.ethers.utils.parseEther("10"), // initial grant fund
   });
 
-  await grantChain.deployed();
+  await grantChain.deployed(); 
   console.log("GrantChain deployed to:", grantChain.address);
 }
 
