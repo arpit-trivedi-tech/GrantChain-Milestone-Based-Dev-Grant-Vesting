@@ -11,7 +11,7 @@ contract GrantChain {
         bool isReleased;
     }
 
-    Milestone[] public milestones;
+    Milestone[] public milestones; 
 
     constructor(address _grantee) payable {
         require(msg.value > 0, "Grant funds required");
