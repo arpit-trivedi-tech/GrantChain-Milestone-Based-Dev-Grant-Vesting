@@ -7,7 +7,7 @@ GrantChain allows developers and funders to interact through structured, milesto
 ## Project Vision
 
 To create a transparent, milestone-driven funding mechanism for developers and creators, reducing the risk of misallocated grants and incentivizing delivery.
-
+ 
 ## Key Features
 
 - Grantee-controlled wallet address
