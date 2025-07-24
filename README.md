@@ -10,7 +10,7 @@ To create a transparent, milestone-driven funding mechanism for developers and c
   
 ## Key Features
   
-- Grantee-controlled wallet address
+- Grantee-controlled wallet address 
 - Milestone tracking and fund release 
 - On-chain accountability and transparency
 - Escrow-like holding for grant security
