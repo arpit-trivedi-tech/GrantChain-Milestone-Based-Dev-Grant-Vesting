@@ -4,11 +4,11 @@
      
 GrantChain allows developers and funders to interact through structured, milestone-based grant contracts. Funders deposit the full grant amount, which is then released in parts as work milestones are completed.
  
-## Project Vision  
+## Project Vision   
  
 To create a transparent, milestone-driven funding mechanism for developers and creators, reducing the risk of misallocated grants and incentivizing delivery.
   
-## Key Features
+## Key Features 
   
 - Grantee-controlled wallet address 
 - Milestone tracking and fund release 
