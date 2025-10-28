@@ -1,6 +1,6 @@
 # Project Title: GrantChain: Milestone-Based Dev Grant Vesting  
  
-## Project Description                      
+## Project Description                       
      
 GrantChain allows developers and funders to interact through structured, milestone-based grant contracts. Funders deposit the full grant amount, which is then released in parts as work milestones are completed.
  
